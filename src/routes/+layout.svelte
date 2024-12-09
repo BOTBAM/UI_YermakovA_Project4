@@ -9,8 +9,8 @@
 <style>
     .phone-container
     {
-        width: 375px; /* iPhone 12 screen width */
-        height: 654px; /* iPhone 12 screen height */
+        width: 375px; 
+        height: 654px; 
         margin: auto;
         border: 1px solid #ccc;
         border-radius: 30px;

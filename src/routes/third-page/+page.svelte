@@ -5,13 +5,13 @@
     // List of doors with unique colors
     const doors =
     [
-        { id: "13GG", color: "#2aa6c9" }, // Blue
-        { id: "12GG", color: "#28a745" }, // Green
-        { id: "17GG", color: "#dc3545" }, // Red
-        { id: "5WG", color: "#f39c12" }, // Orange
-        { id: "1LC", color: "#8e44ad" }, // Purple
-        { id: "3LC", color: "#e67e22" }, // Amber
-        { id: "11LL", color: "#3498db" } // Sky Blue
+        { id: "13GG", color: "#2aa6c9" },
+        { id: "12GG", color: "#28a745" },
+        { id: "17GG", color: "#dc3545" },
+        { id: "5WG", color: "#f39c12" },
+        { id: "1LC", color: "#8e44ad" },
+        { id: "3LC", color: "#e67e22" }, 
+        { id: "11LL", color: "#3498db" }
     ];
 
     let showPopup = false;
@@ -107,7 +107,7 @@
         padding: 1px 54px;
         border-radius: 12px;
         border: none;
-        background: var(--button-color, #2aa6c9); /* Used unique color passed via inline style */
+        background: var(--button-color, #2aa6c9); /* Tried out unique color passed via inline style (saw on youtube shorts haha)*/
         color: white;
         font-family: "Roboto Mono", monospace;
         font-size: 3rem;

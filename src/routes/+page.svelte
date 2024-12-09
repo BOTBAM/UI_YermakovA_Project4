@@ -18,7 +18,7 @@
     };
     const handleYesClick = () =>
     {
-        alert("Opening the door!"); // Example action
+        alert("Opening the door!"); // Was going to have a mini animation but exam week is brutal ._.
         closePopup();
     };
 </script>
