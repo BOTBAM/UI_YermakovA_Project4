@@ -69,7 +69,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin: 0 auto; /* Center the inline container */
+        margin: 0 auto; /* To center */
 
     }
 
@@ -117,7 +117,7 @@
     {
         padding: 12px 24px;
         border-radius: 12px;
-        border: none; /* Ensures no visible border */
+        border: none; /* Enusres no visible border */
         background: linear-gradient(111deg, #383838, #04340f); /* Green gradient */
         color: white;
         font-family: "Roboto Mono", monospace;

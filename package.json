@@ -44,6 +44,7 @@
 	},
 	"dependencies": {
 		"again": "^0.0.1",
-		"leaflet": "^1.9.4"
+		"leaflet": "^1.9.4",
+		"node": "^22.12.0"
 	}
 }
